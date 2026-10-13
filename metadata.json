@@ -22,7 +22,6 @@
     "Output Consistency": "Fixed",
     "Interpretation": "Probability of Mycobacterium tuberculosis growth inhibition, with actives defined by a minimum inhibitory concentration below 5 uM.",
     "Tag": [
-        "IC50",
         "Antimicrobial activity"
     ],
     "Biomedical Area": [
